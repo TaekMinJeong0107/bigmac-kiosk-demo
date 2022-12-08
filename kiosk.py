@@ -1,5 +1,5 @@
-# Taek Min Jeong /21500674
 import streamlit as st
+st.markdown("Taek Min Jeong / 21500674")
 
 st.title("Order")
 
